@@ -1,5 +1,6 @@
-﻿win-gtts-winamp
+# win-gtts-winamp
 
+Generates mp3 speech based on text and runs it in winamp
 Handy for speaking in teamspeak with google synthesizer.
 
 OS:
