@@ -1,0 +1,2 @@
+- Support special unicode, language-specific chars(or convert)
+- Figure out audio multichanneling (winamp to TS and to Speakers)
